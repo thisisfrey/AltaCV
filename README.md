@@ -5,5 +5,3 @@ This repository contains the LaTeX source code and PDF output of my CV, using th
 ## Demo
 Thank you for taking the time to review my CV! I am thrilled to present my credentials and professional journey in IT.
 - [CV](https://github.com/thisisfrey/AltaCV/blob/main/CV-Antonia-Alice-Frey.pdf)
-- [CV (Marissa Mayer)](https://github.com/thisisfrey/AltaCV/blob/main/CV_Marissa%20Mayer/CV.pdf)
-
