@@ -1,4 +1,4 @@
-# AltaCV, yet another LaTeX CV/Résumé class
+# AltaCV
 
 This repository contains the LaTeX source code and PDF output of my CV, using the [Recreating Business Insider's CV of Marissa Mayer-Template](https://www.overleaf.com/latex/templates/recreating-business-insiders-cv-of-marissa-mayer/gtqfpbwncfvp) on Overleaf.
 
